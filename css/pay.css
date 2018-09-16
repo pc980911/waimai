@@ -1,0 +1,127 @@
+/*
+* @Author: MAIBENBEN
+* @Date:   2018-08-15 23:09:31
+* @Last Modified by:   MAIBENBEN
+* @Last Modified time: 2018-08-16 21:55:59
+*/
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	list-style: none;
+	font-family: "苹方";
+}
+a{
+	text-decoration: none;
+}
+i{
+	font-style: normal;
+}
+body{
+	height: 13.34rem;
+}
+header{
+	width: 7.5rem;
+	height: 1.2rem;
+	background: #f31b67;
+	display: flex;
+	flex-direction: row;
+}
+header img{
+	width: 3.6rem;
+	height: .82rem;
+	margin-left: 1.15rem;
+	margin-top: .26rem;
+}
+#back{
+	display: block;
+	margin-top: .36rem;
+	width: 0.5rem;
+	height: 0.5rem;
+	margin-left: .24rem;
+}
+.bank{
+	width: 6.12rem;
+	height: 1.1rem;
+	background: #f31b67;
+	border-radius: .1rem;
+	margin: 0 auto;
+	margin-top: .26rem;
+	display: flex;
+	flex-direction: row;
+}
+.bank img{
+	width: .7rem;
+	height: .7rem;
+	margin-left: .28rem;
+	margin-top: .18rem;
+}
+.bank .card p{
+	font-size: .26rem;
+	color: #fff;
+	height: .3rem;
+	margin-left: .1rem;
+	margin-top: .1rem;
+}
+.money{
+	width: 5.6rem;
+	height: 1.8rem;
+	border-bottom: .05rem dotted #f31b67;
+	margin: 0 auto;
+	text-align: center;
+}
+.money h6{
+	font-size: .28rem;
+	font-weight: 600;
+	color: #000;
+}
+.money .seven{
+	display: flex;
+	flex-direction: row;
+}
+.money .seven h2{
+	color: #000;
+	font-size: .48rem;
+	margin-top: .5rem;
+	margin-left: 1.66rem
+}
+.money .seven h3{
+	color: #f34b67;
+	font-size: .34rem;
+	margin-top: .64rem;
+	margin-left: .1rem;
+}
+.money p{
+	color: #000;
+	font-size: .28rem;
+	font-weight: 600;
+}.pay{
+	text-align: center;
+	margin-top: .7rem;
+}
+.pay h3{
+	font-size: .28rem;
+	font-weight: 600;
+	color: #3a414a;
+}
+.pay p{
+	font-size: .28rem;
+	color: rgba(243, 27, 103, 0.5);
+}
+img{
+	width: 3.3rem;
+	height: 5.3rem;
+	margin-left: 2.2rem;
+}
+footer p{
+	font-size: .26rem;
+	font-weight: 800;
+	color: rgba(243, 27, 103, 0.6);
+	margin-left: 3.12rem;
+}
+footer h2{
+	font-size: .28rem;
+	font-weight: 600;
+	color: #f31b67;
+	margin-left: 2.32rem;
+}
